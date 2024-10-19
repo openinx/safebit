@@ -1,0 +1,15 @@
+*.o
+*.sw[po]
+*.rej
+.deps
+.release-env
+*.so
+
+# os
+.DS_Store
+
+# ide
+.vscode
+.idea
+
+dist/
